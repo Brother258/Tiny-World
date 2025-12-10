@@ -4,6 +4,14 @@ Tiny World is a lightweight system-tray AI assistant that reads text from your c
 
 ---
 
+## Download
+
+You can download the app directly here:
+
+[Download Tiny World](https://drive.google.com/file/d/1r-IttU8_87A15JxelWwN1Fr88LQ0WluE/view?usp=sharing)
+
+---
+
 ## Features
 
 - **Clipboard AI Assistant**
